@@ -1,16 +1,14 @@
-## Hi there 👋
+# 9wdav1d
 
-<!--
-**qwdavid/qwdavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+High school student interested in:
 
-Here are some ideas to get you started:
+- 🔌 Electronics & embedded systems
+- 🥽 VR / SlimeVR
+- 🐧 Linux & Open Source
+- 🎛️ Audio / guitar effects
+- 🦀 Rust
+- ♟️ Chess
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building things with ESP32 and custom PCBs.
+
+> Making things just because I can.
